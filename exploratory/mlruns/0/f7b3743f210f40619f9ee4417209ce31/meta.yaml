@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/loicsteve/Desktop/MLops/mlflow-demo/exploratory/mlruns/0/f7b3743f210f40619f9ee4417209ce31/artifacts
+end_time: 1722951708950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7b3743f210f40619f9ee4417209ce31
+run_name: ''
+run_uuid: f7b3743f210f40619f9ee4417209ce31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722951512937
+status: 3
+tags: []
+user_id: loicsteve
